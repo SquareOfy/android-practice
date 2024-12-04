@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/a_editText" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/b_othertext" />
+            <option value="$PROJECT_DIR$/c_button" />
+            <option value="$PROJECT_DIR$/d_imageView" />
+            <option value="$PROJECT_DIR$/e_widget" />
+            <option value="$PROJECT_DIR$/ex1_kakaologin" />
+            <option value="$PROJECT_DIR$/f_viewpage2" />
+            <option value="$PROJECT_DIR$/g_relativelayout" />
+            <option value="$PROJECT_DIR$/h_framelayout" />
+            <option value="$PROJECT_DIR$/i_gridlayout" />
+            <option value="$PROJECT_DIR$/j_constraintlayout" />
+            <option value="$PROJECT_DIR$/k_linearlayout" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

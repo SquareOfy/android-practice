@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/ex2" />
+            <option value="$PROJECT_DIR$/ex3_compactivityapp" />
+            <option value="$PROJECT_DIR$/ex4_compactivityapp2" />
+            <option value="$PROJECT_DIR$/ex5_intent_implicit" />
+            <option value="$PROJECT_DIR$/ex6_lifecycle" />
+            <option value="$PROJECT_DIR$/ex7_task" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

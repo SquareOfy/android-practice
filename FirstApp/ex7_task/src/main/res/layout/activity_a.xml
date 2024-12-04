@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="A입니다"
+        android:textSize="24sp"/>
+    <Button
+        android:id="@+id/btA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="화면A로가기"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btA_SINGLE_TOP"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="화면A로가기(SINGLE_TOP)"
+        android:layout_gravity="center"/>
+
+    <!--gravity는 뷰 내부의 콘텐츠(텍스트, 이미지 등)를 뷰의 경계 내에서 어떻게 정렬할지를 정의합니다. 즉, 뷰 자체의 내용물(예: 텍스트, 이미지 등)을 뷰의 중심, 상단, 하단, 왼쪽, 오른쪽 등으로 정렬할 때 사용됩니다. -->
+
+
+    <Button
+        android:id="@+id/btA_NEW_TASK"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="화면A로가기(FLAG_ACTIVITY_NEW_TASK)"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btA_CLEAR_TASK"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="화면A로가기(FLAG_ACTIVITY_CLEAR_TASK)" />
+
+    <Button
+        android:id="@+id/btB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="화면B로가기" />
+</LinearLayout>
